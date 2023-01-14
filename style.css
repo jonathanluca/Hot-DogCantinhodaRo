@@ -1,0 +1,21 @@
+:root {
+    --cor-do-fundo: #ff8c00;
+    --branco-principal: #ffffff;
+}
+body {
+    background-color: var(--cor-do-fundo);
+    color: var(--branco-principal)
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.principal {
+    background-image: url(/imagens/dog-cheddar.jpg);
+}
+
+.container{
+    height: 100vh;
+}
