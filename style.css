@@ -12,10 +12,21 @@ body {
     padding: 0;
 }
 
+img{
+   width: 50px;
+}
+
 .principal {
-    background-image: url(/imagens/dog-cheddar.jpg);
+    margin: 10%;
+    padding:auto;
 }
 
 .container{
     height: 100vh;
 }
+
+.contato {
+    text-align: right;
+    color: #000000;
+}
+
