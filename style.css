@@ -46,19 +46,23 @@ div {
 }
 
 .whats {
-    width: 100px;
-    height: 100px;
+    width: 30px;
+    height: 30px;
     margin: 0px;
+    text-align: center;
 }
 
-.contatos {
-    margin: 20px;
+.contatos{
+    margin: 0px;
     height: 100px;
     color: #000000;
-    font-size: xx-large;
-;
-
+    font-size: 20px;
 }
 
+.zap {
+    display: flex;
+    margin: right;
+}
 
+ 
 
